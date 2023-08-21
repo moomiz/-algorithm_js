@@ -34,8 +34,8 @@ const bfs = (graph, startNode) => {
         visited.push(node);
         let nodes = graph[node];
         needVisit = [...needVisit, ...nodes.sort((a, b) => a - b)];
-        console.log(needVisit)
-        console.log(visited)
+        // console.log(needVisit)
+        // console.log(visited)
       }
     }
   
