@@ -1,2 +1,3 @@
-# -algorithm_js
-js_알고리즘 풀이
+# algorithm
+python & js 
+알고리즘 풀이
